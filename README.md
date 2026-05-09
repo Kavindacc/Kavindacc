@@ -1,70 +1,280 @@
 <div align="center">
 
-# ⚡ Hi, I'm Kavinda Chandrasiri
+```
+╔═══════════════════════════════════════════════════════════════════╗
+║                                                                   ║
+║        K A V I N D A   C H A N D R A S I R I                     ║
+║        ─────────────────────────────────────                      ║
+║        Full Stack Engineer  ·  AI/IoT Enthusiast                  ║
+║        Colombo, Sri Lanka  🇱🇰                                     ║
+║                                                                   ║
+╚═══════════════════════════════════════════════════════════════════╝
+```
 
-**Software Engineer | AI/ML Researcher | Founder @ Volkanic Pvt Ltd**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2800&pause=1200&color=6EE7B7&center=true&vCenter=true&width=500&lines=Building+scalable+fullstack+systems;Spring+Boot+%7C+React+%7C+Next.js+%7C+TypeScript;AI+%2F+ML+%7C+IoT+%7C+Open+Source;Final+year+CS+undergrad+%40+UWU" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](#)
-[![Website](https://img.shields.io/badge/Volkanic-Visit_Site-FF4500?style=for-the-badge&logo=google-chrome)](#)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-success?style=for-the-badge&logo=gmail)](#)
+</div>
 
-*Crafting scalable software architecture and pushing the boundaries of machine learning.*
+<br/>
+
+## `whoami`
+
+```yaml
+name:       Kavinda Chandrasiri
+role:       Intern — Software Engineer (Full Stack)
+university: Uva Wellassa University of Sri Lanka
+degree:     BSc (Hons) Computer Science & Technology
+gpa:        3.48 / 4.00
+status:     Final year · Open to SWE internships
+research:   Singlish-to-English NMT · Transformer (MT5) · Agricultural NLP
+location:   Colombo, Sri Lanka
+```
+
+> _Passionate about engineering systems that scale — from REST APIs and real-time WebSocket layers to on-device AI inference and edge IoT deployments._
+
+---
+
+## `stack --list`
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+**Languages**
+```
+Java        ████████████  ★★★★★
+TypeScript  ███████████   ★★★★☆
+JavaScript  ███████████   ★★★★☆
+Python      ████████      ★★★☆☆
+SQL         ████████      ★★★☆☆
+PHP         ██████        ★★★☆☆
+Kotlin      █████         ★★☆☆☆
+```
+
+</td>
+<td valign="top" width="33%">
+
+**Backend & DevOps**
+```
+Spring Boot    ● Production
+Node.js        ● Production
+Express.js     ● Production
+REST APIs      ● Production
+tRPC           ● Intermediate
+JWT / OAuth    ● Production
+Docker         ● Production
+GitHub Actions ● Production
+```
+
+</td>
+<td valign="top" width="33%">
+
+**Frontend & Mobile**
+```
+React.js       ● Production
+Next.js 14     ● Production
+TypeScript     ● Production
+Tailwind CSS   ● Production
+Socket.io      ● Production
+React Native   ● Intermediate
+Flutter        ● Intermediate
+```
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**Databases**
+```
+PostgreSQL   ████████████
+MySQL        ████████████
+MongoDB      ████████
+```
+
+</td>
+<td valign="top" width="50%">
+
+**AI / ML & IoT**
+```
+TensorFlow · PyTorch · Scikit-Learn
+OpenCV · MediaPipe · TensorFlow.js
+ESP32 · Arduino · PIC microcontrollers
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## `projects --featured`
+
+<details>
+<summary><b>💇 Niyo Salon</b> — Modern Salon & Tattoo Studio Management System</summary>
+<br/>
+
+> **Stack:** React.js (Vite) · Tailwind CSS · Spring Boot (Java) · MySQL · TensorFlow.js · MediaPipe · Face-api.js · Gemini LLM
+
+**What it does:**
+- Full-stack platform with role-based access, JWT + Spring Security authentication
+- Real-time appointment scheduling with conflict detection, payment gateway & automated notifications
+- 🤖 AI-powered face analysis & virtual try-on via TensorFlow.js + MediaPipe
+- Gemini LLM-powered automated blog content generation
+
+[![Backend](https://img.shields.io/badge/Backend-Repo-1a1a2e?style=flat-square&logo=github)](https://github.com/Kavindacc)
+[![Frontend](https://img.shields.io/badge/Frontend-Repo-1a1a2e?style=flat-square&logo=github)](https://github.com/Kavindacc)
+
+</details>
+
+<details>
+<summary><b>📋 TaskFlow</b> — Collaborative Task Management with Real-Time Sync</summary>
+<br/>
+
+> **Stack:** Next.js 14 · TypeScript · Express.js · Tailwind CSS · Prisma · PostgreSQL · Socket.io · JWT · tRPC
+
+**What it does:**
+- Full-stack project management with real-time collaborative synchronization
+- Advanced task property tracking, secure team administration & role management
+- Precision analytics dashboard — productivity visualization & cross-project deadline tracking
+- Interactive calendar for sprint planning & scheduling
+
+[![Backend](https://img.shields.io/badge/Backend-Repo-1a1a2e?style=flat-square&logo=github)](https://github.com/Kavindacc)
+[![Frontend](https://img.shields.io/badge/Frontend-Repo-1a1a2e?style=flat-square&logo=github)](https://github.com/Kavindacc)
+
+</details>
+
+<details>
+<summary><b>🛒 Exchanza</b> — E-Commerce Platform with Live Auction Engine</summary>
+<br/>
+
+> **Stack:** PHP · MySQL · HTML · Tailwind CSS · JavaScript
+
+**What it does:**
+- Combines selling, thrifting & real-time bidding in one platform
+- Led architecture & development of the live auction engine
+- Real-time highest-bid display for competitive bidding sessions
+
+[![Repo](https://img.shields.io/badge/View-Repo-1a1a2e?style=flat-square&logo=github)](https://github.com/Kavindacc)
+
+</details>
+
+<details>
+<summary><b>🍳 CookiFy</b> — Smart Meal Planner & Recipe Mobile App</summary>
+<br/>
+
+> **Stack:** Flutter · Kotlin · Android Studio
+
+**What it does:**
+- Cross-platform app with daily meal scheduling & nutritional awareness
+- Recipe discovery via external API integration
+- YouTube video integration for guided step-by-step cooking
+
+[![Repo](https://img.shields.io/badge/View-Repo-1a1a2e?style=flat-square&logo=github)](https://github.com/Kavindacc)
+
+</details>
+
+---
+
+## `research --active`
+
+```
+📄  Singlish-to-English Neural Machine Translation
+    for Agricultural Content                              [ONGOING]
+    ─────────────────────────────────────────────────────────────
+    Model      : MT5 Transformer (multilingual)
+    Task       : Code-mixed Singlish → English translation
+    Domain     : Sri Lankan agricultural content
+    Techniques : Transliteration normalization,
+                 domain-specific fine-tuning,
+                 BLEU metric evaluation
+```
+
+---
+
+## `experience --work`
+
+```
+Oct 2021 – Aug 2022   Technical Support Officer
+                      Aiken (Pvt.) Ltd · Colombo 06
+                      └─ POS software integration with bank dev teams
+                      └─ Payment gateway configuration & deployment
+
+Oct 2020 – Sep 2021   IT Officer
+                      Interpub Ventures (Pvt) Ltd · Piliyandala
+                      └─ CMS-based website maintenance
+                      └─ POS & inventory management system support
+```
+
+---
+
+## `stats --github`
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Kavindacc&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=6EE7B7&icon_color=6EE7B7&text_color=c9d1d9&include_all_commits=true&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavindacc&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=6EE7B7&text_color=c9d1d9&langs_count=8" />
+
+</div>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kavindacc&theme=dark&hide_border=true&background=0d1117&ring=6EE7B7&fire=6EE7B7&currStreakLabel=6EE7B7" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kavindacc&theme=react-dark&hide_border=true&bg_color=0d1117&color=6EE7B7&line=6EE7B7&point=ffffff" width="100%"/>
+</div>
+
+---
+
+## `leadership --roles`
+
+| Role | Organization | Period |
+|------|-------------|--------|
+| 🦁 1st Vice President | Leo Club of Uva Wellassa University | 2024/2025 |
+| ⚡ OC Chairperson | IEEE Innovation Nation Sri Lanka · Uva Province | 2024/2025 |
+| 💻 Head · Membership Development | IEEE Computer Society · UWU | Apr 2025 – Present |
+| 🐧 Lead · Membership & Recruit | FOSS Community of UWU | Apr 2025 – Present |
+| 🌐 Competitor | IEEEXtreme 19.0 — 19,000+ participants globally | 2025 |
+
+---
+
+## `certifications --list`
+
+```
+✓  Google Cloud Essentials                    — Google
+✓  Software Engineer Certification            — HackerRank
+✓  Introduction to Generative AI              — Google Cloud / Simplilearn
+✓  Java Application Development               — NIBM
+```
+
+---
+
+## `contact --reach-me`
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-kavinda--chandrasiri.me-0d1117?style=for-the-badge&labelColor=6EE7B7&color=0d1117)](https://kavinda-chandrasiri.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kavinda-chandrasiri)
+[![GitHub](https://img.shields.io/badge/GitHub-Kavindacc-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kavindacc)
+[![Email](https://img.shields.io/badge/Gmail-kavindacc@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kavindacc@gmail.com)
 
 </div>
 
 ---
 
-### 🚀 About Me
-
-As a final-year Computer Science and Technology undergraduate at Uva Wellassa University, I bridge the gap between complex theoretical concepts and robust, production-ready software. Whether I'm building real-time collaborative applications or engineering translation models, my focus is always on delivering high-impact, user-centric solutions.
-
-- 🏢 **Currently Building:** Growing **Volkanic Pvt Ltd** to deliver custom AI and software solutions.
-- 💻 **Actively Coding:** Developing **TaskFlow**, a real-time collaborative task management platform using Next.js and Prisma.
-- 🧠 **Researching:** Architecting deep learning models for complex linguistic challenges, specifically Singlish-to-English translation.
-- 🤝 **Community:** Active leader, having served as Vice President and Organizing Committee Chair for the IEEE Student Branch and Leo Club, driving innovation and entrepreneurial mindsets.
-
----
-
-### 🛠️ Technical Arsenal
-
-#### **Software Engineering**
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
-
-#### **AI & Machine Learning**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=000)
-![Generative AI](https://img.shields.io/badge/Generative_AI-000000?style=flat-square&logo=openai&logoColor=white)
-
-#### **Database & Cloud**
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-
----
-
-### 📈 GitHub Analytics
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" width="50%" />
-</div>
+```
+┌─────────────────────────────────────────────────────────────────┐
+│   Open to internships · Let's build something meaningful.        │
+│   Feel free to reach out — I respond fast. ⚡                    │
+└─────────────────────────────────────────────────────────────────┘
+```
 
----
+![Profile Views](https://komarev.com/ghpvc/?username=Kavindacc&color=6EE7B7&style=flat-square&label=Profile+Views)
 
-### 💼 Professional Journey
-
-* **Founder** @ Volkanic Pvt Ltd *(Dec 2025 - Present)*
-* **Technical Support Engineer** @ Aiken (Pvt.) Ltd., Colombo *(Oct 2021 – Aug 2022)*
-
-<br>
-<div align="center">
-  <i>"Transforming ideas into digital reality through intelligent engineering."</i>
 </div>
