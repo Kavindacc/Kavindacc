@@ -1,294 +1,209 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:08d665,100:000000&height=280&section=header&text=KAVINDA%20CHANDRASIRI&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Tech%20Explorer%20%7C%20Sri%20Lanka%20%F0%9F%87%B1%F0%9F%87%B0&descAlignY=60&descSize=18&descColor=08d665" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:08d665,100:0b0d0c&height=250&section=header&text=Kavinda%20Chandrasiri&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Sri%20Lanka&descAlignY=58&descSize=20" alt="Kavinda Chandrasiri profile header" />
 </p>
 
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║                                                                      ║
-║   > Initializing Kavinda.exe ...                                     ║
-║   > Loading: Full Stack Dev | AI Explorer | Future Innovator         ║
-║   > Status:  Building the future, one commit at a time  ✅           ║
-║                                                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=08D665&center=true&vCenter=true&width=900&lines=Full+Stack+Developer+%F0%9F%9A%80;AI+%26+Machine+Learning+Explorer+%F0%9F%A7%A0;Quantum+Computing+Enthusiast+%E2%9A%9B%EF%B8%8F;IoT+%26+Edge+Computing+Builder+%F0%9F%8C%90;n8n+%26+Workflow+Automation+Architect+%F0%9F%94%97;Generative+AI+%26+LLM+Researcher+%F0%9F%A4%96;Building+Digital+Experiences+That+Matter+%E2%9C%A8" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://www.kavinda-chandrasiri.me"><img src="https://img.shields.io/badge/Portfolio-kavinda--chandrasiri.me-08d665?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/kavinda-chandrasiri/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:kavindacc@gmail.com"><img src="https://img.shields.io/badge/Gmail-kavindacc-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://x.com/Kavindacc"><img src="https://img.shields.io/badge/X-@Kavindacc-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-  <a href="https://github.com/Kavindacc"><img src="https://komarev.com/ghpvc/?username=Kavindacc&label=Profile+Views&color=08d665&style=for-the-badge"/></a>
-</p>
+<!-- Title -->
+<h3 align="center">
+    <samp>
+        &gt; Hey There!, I am
+        <b><a target="_blank" href="https://www.linkedin.com/in/kavinda-chandrasiri/">Kavinda Chandrasiri</a></b>
+    </samp>
+</h3>
 
 <br>
+
+<p align="center">
+<samp>
+「 Computer Science undergraduate from Sri Lanka · Building scalable full-stack apps · Turning ideas into interactive digital experiences 」
+</samp>
+</p>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1200&color=08D665&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+TypeScript+Enthusiast;Spring+Boot+%7C+Node.js+%7C+Express.js;Building+Scalable+Web+%26+Mobile+Apps;Open+Source+Contributor+%7C+Lifelong+Learner"
+    alt="Typing SVG"
+  />
+</p>
+
+<p align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="Developer coding animation">
+</p>
 
 [![divider](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/Kavindacc)
 
+---
+
+## 🛠 Technologies, Projects & Domains
+
+<table border="0" cellspacing="10" cellpadding="0">
+<tr>
+
+<!-- LEFT: TECH STACK -->
+<td width="460" valign="top" align="center">
+
+<h3>🛠 Tech Stack</h3>
 <br>
 
-## 🧠 Tech Passions & Interests
+**Frontend**
 
-> *"The best way to predict the future is to build it."*
-
-<div align="center">
-
-### 🔬 Domains I'm Deeply Passionate About
-
-| 🧠 | Domain | 💡 What Excites Me |
-|:---:|:---|:---|
-| ⚛️ | **Quantum Computing** | Quantum algorithms, qubits, superposition & entanglement for next-gen computation |
-| 🤖 | **Artificial Intelligence & ML** | Neural networks, deep learning, model training, RAG, and AI-driven applications |
-| 🔗 | **n8n & Workflow Automation** | No-code/low-code automation, AI agents, building intelligent pipelines |
-| 🌐 | **Internet of Things (IoT)** | Smart sensors, embedded systems, real-time device-to-cloud communication |
-| 🧬 | **Generative AI & LLMs** | Prompt engineering, fine-tuning, LangChain, Ollama, and building with GPT/Gemini APIs |
-| 🌿 | **Edge Computing** | Processing at the edge, low-latency systems, decentralized AI inference |
-| 🤖 | **Robotics & Autonomous Systems** | Autonomous decision-making, ROS, computer vision for robotics |
-| 🧩 | **Digital Twins** | Virtual replicas, simulation-driven development, predictive modeling |
-| 🔮 | **Neuromorphic Computing** | Brain-inspired chips, spiking neural networks, bio-inspired architectures |
-| 🔗 | **Web3 & Decentralized Tech** | Smart contracts, DeFi concepts, decentralized application architecture |
-| 🛡️ | **AI-Powered Cybersecurity** | Anomaly detection, threat intelligence, zero-trust security models |
-| 📡 | **5G & Next-Gen Connectivity** | Ultra-low latency networks, network slicing, connected infrastructure |
-| 🧪 | **MLOps & AI Infrastructure** | Model deployment, monitoring, CI/CD for AI, Kubeflow, MLflow |
-| 🥽 | **Extended Reality (XR/AR/VR)** | Immersive computing, spatial interfaces, WebXR |
-
-</div>
-
-<br>
-
-<div align="center">
-
-### 🛰️ Currently Exploring
-
-<img src="https://img.shields.io/badge/Quantum%20Computing-Qiskit-6929C4?style=for-the-badge&logo=ibm&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI%20Agents-LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/Automation-n8n-EF5533?style=for-the-badge&logo=n8n&logoColor=white"/>
-<img src="https://img.shields.io/badge/IoT-Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
-<img src="https://img.shields.io/badge/LLMs-Ollama-000000?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/DevOps-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/Edge%20AI-TensorFlow%20Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/MLOps-MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
-
-</div>
+<table align="center" cellspacing="0" cellpadding="6">
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="32" title="React.js"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="32" title="Next.js"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="32" title="TypeScript"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32" title="JavaScript"/></td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="32" title="Tailwind CSS"/></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="32" title="HTML5"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="32" title="CSS3"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="32" title="Flutter"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="32" title="Figma"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="32" title="VS Code"/></td>
+  </tr>
+</table>
 
 <br>
 
-[![divider](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle_mirrored.svg)](https://github.com/Kavindacc)
+**Backend & Database**
+
+<table align="center" cellspacing="0" cellpadding="6">
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="32" title="Node.js"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="32" title="Express.js"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="32" title="Spring Boot"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32" title="Python"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="32" title="Java"/></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="32" title="PostgreSQL"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="32" title="MySQL"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="32" title="Firebase"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="32" title="Docker"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="32" title="AWS"/></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="32" title="Git"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="32" title="GraphQL"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="32" title="Linux"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="32" title="Prisma"/></td>
+    <td align="center"><img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="32" title="REST APIs / Postman"/></td>
+  </tr>
+</table>
+
+</td>
+
+<!-- RIGHT: PROJECTS -->
+<td width="480" valign="top" align="center">
+
+<h3>🚀 Featured Projects</h3>
+<br>
+
+| Project | Stack | Repo |
+|---------|-------|------|
+| **TaskFlow** — Collaborative task manager with real-time sync | Next.js · Express · PostgreSQL · Socket.io · Prisma | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat&logo=github)](https://github.com/Kavindacc/TaskFlow) |
+| **Niyo Salon** — AI-powered salon management + virtual try-on | React · Spring Boot · TensorFlow.js · MediaPipe | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat&logo=github)](https://github.com/KasunJanith/Project-II---Niyo-Salon--Frontend) |
+| **Exchanza** — E-Commerce with live auctions & payments | React · Node.js · MongoDB · Stripe | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat&logo=github)](https://github.com/Kavindacc/Project-I_Exchanza) |
+| **CookiFy** — Smart meal planner cross-platform app | Flutter · Dart · MySQL · YouTube API | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat&logo=github)](https://github.com/Sajan-Hirusha/CookiFy-Flutter) |
+| **My Portfolio** — Animated personal portfolio | React (Vite) · TypeScript · Tailwind · Framer Motion | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat&logo=github)](https://github.com/Kavindacc/MyPortfolio) |
 
 <br>
 
-## 🛠️ Tech Arsenal
+<a href="https://github.com/Kavindacc?tab=repositories">
+  <img src="https://img.shields.io/badge/View%20All%20Projects-08D665?style=for-the-badge&logo=github&logoColor=black" alt="View all projects"/>
+</a>
 
-<div align="center">
+</td>
 
-### ⚡ Frontend Mastery
-
-<img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-
-### 🔧 Backend & APIs
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
-
-### 🗄️ Databases & Cloud
-
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-
-### 🤖 AI / ML & Automation
-
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/n8n-EF5533?style=for-the-badge&logo=n8n&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-
-### 🧰 Tools & DevOps
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-
-</div>
-
-<br>
+</tr>
+</table>
 
 [![divider](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg)](https://github.com/Kavindacc)
 
-<br>
+---
 
-## 🚀 Featured Projects
-
-<table width="100%" border="0" cellpadding="10">
-<tr>
-
-<td width="50%" valign="top">
-
-### 🗂️ [TaskFlow](https://github.com/Kavindacc/TaskFlow)
-> Collaborative Task Management Platform
-
-Real-time team task management with Socket.io sync, advanced boards, drag-and-drop, and secure admin controls.
-
-`Next.js` `Express.js` `PostgreSQL` `Socket.io` `Prisma` `TypeScript`
-
-</td>
-
-<td width="50%" valign="top">
-
-### 💇 [Niyo Salon](https://github.com/KasunJanith/Project-II---Niyo-Salon--Frontend)
-> AI-Powered Salon Management System
-
-AI hairstyle recommendations + virtual try-on using TensorFlow.js & MediaPipe. Full booking, payments, and multi-role dashboards.
-
-`React.js` `Spring Boot` `TensorFlow.js` `MediaPipe` `Face-api.js`
-
-</td>
-
-</tr>
-<tr>
-
-<td width="50%" valign="top">
-
-### 🛒 [Exchanza](https://github.com/Kavindacc/Project-I_Exchanza)
-> Full-Stack E-Commerce Platform
-
-Buy, sell, thrift, and live auction platform with Stripe payments, user auth, and admin dashboard.
-
-`React` `Node.js` `MongoDB` `Stripe` `Tailwind CSS`
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🍽️ [CookiFy](https://github.com/Sajan-Hirusha/CookiFy-Flutter)
-> Smart Meal Planner Mobile App
-
-Cross-platform app with daily meal scheduling, recipe discovery via API, and YouTube video integration.
-
-`Flutter` `Dart` `MySQL` `Recipe API` `Android Studio`
-
-</td>
-
-</tr>
-</table>
-
-<div align="center">
-  <a href="https://github.com/Kavindacc?tab=repositories">
-    <img src="https://img.shields.io/badge/🔭%20Explore%20All%20Projects-08d665?style=for-the-badge&logoColor=black"/>
-  </a>
-</div>
-
-<br>
-
-[![divider](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/Kavindacc)
-
-<br>
-
-## 📊 GitHub Analytics
+### 📊 Vital Statistics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kavindacc&theme=radical&ring=08d665&fire=08d665&currStreakLabel=08d665&background=0d1117&border=08d665" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kavindacc&theme=radical&ring=08d665&fire=08d665&currStreakLabel=08d665" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kavindacc&show_icons=true&theme=radical&icon_color=08d665&title_color=08d665&border_color=08d665&bg_color=0d1117&hide_border=false" width="48%" alt="GitHub Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kavindacc&theme=radical" alt="GitHub profile contribution summary" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kavindacc&show_icons=true&theme=radical&icon_color=08d665&title_color=08d665&border_color=08d665" alt="GitHub Stats" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavindacc&layout=compact&theme=radical&title_color=08d665&border_color=08d665&bg_color=0d1117" width="47%" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavindacc&layout=compact&theme=radical&title_color=08d665&border_color=08d665" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kavindacc&theme=react-dark&color=08d665&line=08d665&point=ffffff&area=true&hide_border=false&border_color=08d665" alt="Contribution Activity Graph"/>
+  <img src="https://komarev.com/ghpvc/?username=Kavindacc&label=PROFILE%20VIEWS&color=08d665&style=flat-square" alt="Profile Views" />
 </p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kavindacc&theme=radical" alt="Profile Summary"/>
-</p>
-
-<br>
 
 [![divider](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/Kavindacc)
 
-<br>
-
-<table width="100%" border="0" cellspacing="10" cellpadding="12">
+<table width="100%" border="0" cellspacing="10" cellpadding="0">
 <tr>
 
+<!-- LEFT: COLLAB -->
 <td width="33%" valign="top">
 
-## 🎓 Education
+## 🤝 Collaboration
 
-**BSc (Hons) Computer Science & Technology**
-Uva Wellassa University · 2022–Present
+I'm open to collaborating on:
+
+<ul>
+  <li>Full-stack web applications</li>
+  <li>React Native & Flutter mobile apps</li>
+  <li>Open source projects</li>
+  <li>AI/ML-powered web platforms</li>
+  <li>Startup MVPs & side projects</li>
+</ul>
+
+</td>
+
+<!-- MIDDLE: ABOUT -->
+<td width="34%" align="center" valign="middle">
+
+## 🎓 About Me
+
+BSc (Hons) Computer Science & Technology  
+**Uva Wellassa University, Sri Lanka**
+
 GPA: **3.48 / 4.0**
 
-📜 **Certifications**
-- Google Cloud Essentials — *Google*
-- Software Engineer — *HackerRank*
-- Intro to Generative AI — *Simplilearn*
-- Java Application Dev — *NIBM*
+Currently learning: **AI/ML**  
+Next target: **DevOps & Kubernetes**
 
 </td>
 
-<td width="34%" valign="top">
+<!-- RIGHT: CONTACT -->
+<td width="33%" valign="top" align="center">
 
-## 🤝 Open to Collaborate On
-
-- 🌐 Full-stack web & mobile apps
-- 🤖 AI/ML powered applications
-- 🔗 n8n workflow automation pipelines
-- 🌿 IoT & edge computing projects
-- ⚡ Open source contributions
-- 🚀 Startup MVPs & side projects
-- 🧠 Research in AI & Quantum CS
-
-</td>
-
-<td width="33%" valign="top">
-
-## 📫 Connect With Me
+## 📫 Contact
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-08d665?style=for-the-badge)](https://www.kavinda-chandrasiri.me)
+<a href="https://www.kavinda-chandrasiri.me">
+  <img src="https://img.shields.io/badge/Portfolio-kavinda--chandrasiri.me-08D665?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Personal website link">
+</a>
+<br><br>
 
-[![Email](https://img.shields.io/badge/📧%20Email-EA4335?style=for-the-badge)](mailto:kavindacc@gmail.com)
+<a href="mailto:kavindacc@gmail.com">
+  <img src="https://img.shields.io/badge/Email-kavindacc@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email contact link">
+</a>
+<br><br>
 
-[![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/kavinda-chandrasiri/)
+<a href="https://www.linkedin.com/in/kavinda-chandrasiri/">
+  <img src="https://img.shields.io/badge/LinkedIn-kavinda--chandrasiri-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn profile link">
+</a>
+<br><br>
 
-[![GitHub](https://img.shields.io/badge/🐙%20GitHub-181717?style=for-the-badge)](https://github.com/Kavindacc)
-
-[![X](https://img.shields.io/badge/🐦%20X%20%2F%20Twitter-000000?style=for-the-badge)](https://x.com/Kavindacc)
+<a href="https://x.com/Kavindacc">
+  <img src="https://img.shields.io/badge/X-@Kavindacc-000000?style=for-the-badge&logo=x" alt="X (Twitter) profile link">
+</a>
 
 </td>
 
@@ -297,20 +212,13 @@ GPA: **3.48 / 4.0**
 
 [![divider](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/Kavindacc)
 
-<div align="center">
-
-### 💬 Philosophy
-
-*"I don't just write code — I build experiences, automate possibilities, and explore the frontiers of what technology can become."*
-
-**⭐ Star the repos if they helped you! Every star fuels more open source!**
-
-<br>
-
-<sub>© 2026 Kavinda Chandrasiri · Built with passion from 🇱🇰 Sri Lanka</sub>
-
-</div>
+<p align="center">
+⚡ Passionate about building clean, scalable, and user-focused full-stack applications
+</p>
+<p align="center">
+Star ⭐ the repos if they helped you!
+</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:08d665,100:0d1117&height=120&section=footer" alt="footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0d0c,100:08d665&height=100&section=footer&width=100" alt="Profile footer wave"/>
 </p>
